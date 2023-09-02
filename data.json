@@ -1,0 +1,47 @@
+[
+    { "id": 1,
+    "nombre": "Iphone 14 pro",  
+    "precio": 999,
+    "img": "img/iphone14.webp",
+    "cantidad": 1
+},
+
+    { "id": 2,
+    "nombre": "Motorola Egde 40", 
+    "img": "img/moto-40.webp",
+    "precio": 899,
+    "cantidad": 1
+},
+
+    { "id": 3,
+    "nombre": "Samsung S23",
+    "img": "img/s23.webp", 
+    "precio": 799,
+    "cantidad": 1
+},
+    
+    
+    { "id": 4,
+    "nombre": "Xiaomi 13 Pro",
+    "img": "img/xiaomi.webp",
+    "precio": 699,
+    "cantidad": 1
+},
+
+    
+{ "id": 5,
+    "nombre": "Samsung Galaxy Flip5",
+    "img": "img/flip-5.webp",
+    "precio": 499,
+    "cantidad": 1
+},
+
+    
+{ "id": 6,
+    "nombre": "Google Pixel 6",
+    "img": "img/google-pixel.webp",
+    "precio": 999,
+    "cantidad": 1
+}
+
+]
